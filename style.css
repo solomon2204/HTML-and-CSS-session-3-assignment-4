@@ -1,0 +1,66 @@
+.container {
+    width: 1200px;
+    margin: auto;
+ }
+ .container2{
+    width: 1200px;
+    margin-inline-end: auto;
+ }
+  
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row2{
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.box1 {
+    width: 15%;
+    margin: auto;
+    border: 0cap;
+    margin-left: auto;
+}
+h1{
+    align-content: center;
+    width: 120px;
+    margin-right: auto;
+}
+
+.box2{
+     width :40%;
+     margin-left:auto;
+     
+
+}
+.box3{
+    width: 40%;
+    margin-left:auto;
+    padding-left: 10%;
+}
+
+h2{
+    width: 50px;
+    margin: auto;
+    border-bottom: 20px;
+}
+p{
+    width: 80%;
+    margin:auto;
+
+}
+.box2 {
+    width: 30%;
+    margin: auto;
+}
+.box2 img{
+    width: 100%;
+    margin: auto;
+}
+.box3 img{
+    width: 70%;
+    margin:auto;
+    padding-left: 35%;
+    
+}
